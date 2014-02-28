@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 I"m now in Master
+=======
+I'm now in new-new-branch
+>>>>>>> new-new-branch
